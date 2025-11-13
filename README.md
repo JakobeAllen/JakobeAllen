@@ -52,7 +52,7 @@ AVL-based system for adding, removing, and searching book orders from CSV files.
 
 ## 💼 Open To
 
-* Summer 2025 **Software Engineering Internships**
+* Summer 2025 **Software Engineering Internships & Entry-Level Roles**
 * IT Support / System Support roles
 * Full-stack or backend development opportunities
 
