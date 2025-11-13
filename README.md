@@ -5,7 +5,7 @@
 📍 Baton Rouge, LA
 📧 **[jakobe.m.allen@gmail.com](mailto:jakobe.m.allen@gmail.com)**
 
-I'm a CS student focused on software engineering, full-stack development, and practical problem-solving. I enjoy building real projects, improving user experiences, and working with modern tools across the stack.
+I'm a CS student focused on software engineering, full-stack development, and practical problem-solving. I enjoy building real projects, improving user experiences, and working with modern tools.
 
 ---
 
