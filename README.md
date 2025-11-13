@@ -19,25 +19,25 @@ I'm a CS student focused on software engineering, full-stack development, and pr
 
 ### 🗂️ ScheduleLSU — Web Course Planning App
 
-Personalized LSU course roadmap generator using React/Next.js and a Python backend.
+A tool that generates personalized LSU course roadmaps using React/Next.js and a Python backend.
 🔗 *Forked from Team-16*
 
 ### 📸 PhotoQuest — Daily Photo Challenge App
 
-Take photos, complete daily quests, and climb the leaderboard.
+Daily outdoor photo quests, levels, and a leaderboard system.
 🔗 *Fork from Geaux-Hack-Dish3/Photo-Quest*
 
 ### 🧠 MNIST ML Models — NumPy & PyTorch
 
-Comparing KNN, Naive Bayes, Linear, MLP, and CNN models on handwritten digits.
+Compared 5 ML models (KNN, Naive Bayes, Linear, MLP, CNN) on the MNIST dataset.
 
 ### 🌐 Class Network — Java Graph Simulation
 
-Student social-network simulator with Dijkstra’s shortest path.
+Simulates student connections with Dijkstra’s algorithm for shortest paths.
 
 ### 📚 Book Order Management — Java + AVL Trees
 
-Balanced AVL tree system for storing and searching book orders from CSV data.
+AVL-based system for adding, removing, and searching book orders from CSV files.
 
 ---
 
@@ -45,8 +45,8 @@ Balanced AVL tree system for storing and searching book orders from CSV data.
 
 * Improving ScheduleLSU with better UI/UX
 * Building more full-stack portfolio projects
-* Strengthening algorithms & systems programming skills
-* Preparing for software engineering internships
+* Enhancing my systems programming & algorithms skills
+* Preparing for 2025 software engineering internships and entry-level roles
 
 ---
 
@@ -54,15 +54,7 @@ Balanced AVL tree system for storing and searching book orders from CSV data.
 
 * Summer 2025 **Software Engineering Internships**
 * IT Support / System Support roles
-* Web / full-stack development opportunities
-
----
-
-## 📊 GitHub Stats
-
-![Jakobe’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakobeAllen\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobeAllen\&layout=compact\&theme=radical)
+* Full-stack or backend development opportunities
 
 ---
 
