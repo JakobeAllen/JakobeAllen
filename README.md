@@ -6,8 +6,7 @@
 📧 [jakobe.m.allen@gmail.com](mailto:jakobe.m.allen@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jakobeallen) | [GitHub](https://github.com/JakobeAllen)
 
-I’m a computer science senior passionate about **software engineering, full-stack development, and machine learning**. I enjoy building practical projects, learning new technologies, and creating systems that solve real-world problems.
-
+I’m a computer science senior focused on software engineering, with interests in machine learning/AI and data engineering. I enjoy building practical projects and systems that solve real-world problems.
 ---
 
 ## 🛠️ Tech Stack
