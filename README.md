@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Jakobe Allen
 
-💻 **Aspiring Software Engineer & Machine Learning Developer**  
+💻 **Software Engineer**  
 🎓 **B.S. Computer Science — Software Engineering @ LSU (May 2026)**  
 📍 Baton Rouge, LA  
 📧 [jakobe.m.allen@gmail.com](mailto:jakobe.m.allen@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jakobeallen) | [GitHub](https://github.com/JakobeAllen)
 
-I’m a computer science senior focused on software engineering, with interests in machine learning/AI and data engineering. I enjoy building practical projects and systems that solve real-world problems.
+I’m a computer science senior focused on **software engineering**, with interests in machine learning/AI and data engineering. I enjoy building practical projects and systems that solve real-world problems.
+
 ---
 
 ## 🛠️ Tech Stack
